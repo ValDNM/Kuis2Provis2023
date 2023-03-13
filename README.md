@@ -1,6 +1,6 @@
 # kuis_2
 
-A new Flutter project.
+Flutter Project Kuis 2 Mata Kuliah Pemrograman Visual.
 
 ## Getting Started
 
